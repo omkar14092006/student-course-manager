@@ -1,0 +1,5 @@
+/* Custom CSS on top of Bootstrap */
+body { background: #f4f6fb; }
+.app-title { letter-spacing: 0.5px; }
+.card-panel { border: 0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08); }
+.table td, .table th { vertical-align: middle; }

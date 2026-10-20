@@ -1,0 +1,17 @@
+{
+  "students": [
+    {
+      "name": "Guru R",
+      "email": "xyz@gmail.com",
+      "course": "AIDS",
+      "id": 2
+    }
+  ],
+  "courses": [
+    {
+      "title": "AIML",
+      "duration": "8HRS",
+      "id": 1
+    }
+  ]
+}
